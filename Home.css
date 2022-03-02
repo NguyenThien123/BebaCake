@@ -1,0 +1,24 @@
+*{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #665544;
+    
+}
+body{
+    background-image: url("image/Logo.jpg");
+}
+#tag1{
+    
+    padding: 0.5em 0;
+    margin: 1%;
+}
+a{
+    display: inline-block;
+    padding: 0.5em;
+    
+    font-size: 20px;
+}
+#pre01{
+    font-size: 22px;
+    
+}
