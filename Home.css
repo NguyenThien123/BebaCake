@@ -1,24 +1,30 @@
 *{
     text-align: center;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    color: #665544;
+    
     
 }
 body{
     background-image: url("image/Logo.jpg");
+    color: #665544;
 }
 #tag1{
     
     padding: 0.5em 0;
     margin: 1%;
+    color: #665544;
 }
 a{
     display: inline-block;
     padding: 0.5em;
+    color: rgb(128, 96, 54);
+    font-size: 30px;
     
-    font-size: 20px;
 }
 #pre01{
     font-size: 22px;
     
+}
+h2,h4{
+    color: rgb(57, 99, 100);
 }
